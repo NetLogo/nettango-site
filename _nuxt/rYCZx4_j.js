@@ -1,0 +1,1 @@
+import{m as r}from"./C-_SMalQ.js";import{d as s,e as n,f as t,a2 as p,a3 as u,y as c,o as d,l}from"#entry";const m=s({__name:"DropdownMenuGroup",props:{asChild:{type:Boolean},as:{}},setup(o){const e=o;return(a,f)=>(d(),n(c(r),p(u(e)),{default:t(()=>[l(a.$slots,"default")]),_:3},16))}}),h=Object.assign(m,{__name:"DropdownMenuGroup"});export{h as default};

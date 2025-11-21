@@ -1,0 +1,6 @@
+import{d as i,c as u,e as m,f as a,m as f,y as e,o as h,k as _,l as k,z as c,a1 as g}from"#entry";import{S as x,g as y,y as b}from"./C-_SMalQ.js";import{c as w}from"./vgxf6kFE.js";/**
+ * @license lucide-vue-next v0.544.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */const C=w("check",[["path",{d:"M20 6 9 17l-5-5",key:"1gmf2c"}]]),B={class:"absolute left-2 flex h-3.5 w-3.5 items-center justify-center"},I=i({__name:"DropdownMenuCheckboxItem",props:{checked:{type:[Boolean,String]},disabled:{type:Boolean},textValue:{},asChild:{type:Boolean},as:{},class:{}},emits:["select","update:checked"],setup(n,{emit:r}){const t=n,l=r,d=u(()=>{const{class:s,...o}=t;return o}),p=x(d,l);return(s,o)=>(h(),m(e(b),f(e(p),{class:e(g)("relative flex cursor-default select-none items-center rounded-sm py-1.5 pl-8 pr-2 text-sm outline-none transition-colors focus:bg-accent focus:text-accent-foreground data-[disabled]:pointer-events-none data-[disabled]:opacity-50",t.class)}),{default:a(()=>[_("span",B,[c(e(y),null,{default:a(()=>[c(e(C),{class:"w-4 h-4"})]),_:1})]),k(s.$slots,"default")]),_:3},16,["class"]))}}),V=Object.assign(I,{__name:"DropdownMenuCheckboxItem"});export{V as default};
