@@ -1,0 +1,1 @@
+import{r}from"./CnAxPwHr.js";import{_ as a,c as o,o as s,n as t,g as n}from"#entry";import"./iik6CYzq.js";const c={};function l(e,m){return s(),o("div",t(n(e.$attrs)),[r(e.$slots,"default",{mdcUnwrap:"p"})],16)}const d=Object.assign(a(c,[["render",l]]),{__name:"MDCFlex"});export{d as default};
