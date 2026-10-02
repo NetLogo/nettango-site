@@ -6,19 +6,55 @@
             <image:loc>https://tango.netlogo.org/assets/models/ants.webp</image:loc>
         </image:image>
         <image:image>
+            <image:loc>https://tango.netlogo.org/assets/models/antomology-pheromones.gif</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://tango.netlogo.org/assets/models/fire.gif</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://tango.netlogo.org/assets/models/two-particle-sandbox.gif</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://tango.netlogo.org/assets/models/ants.gif</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://tango.netlogo.org/assets/models/gpc.webp</image:loc>
+            <image:loc>https://tango.netlogo.org/assets/models/wolves-and-sheep.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://tango.netlogo.org/assets/models/gpc.gif</image:loc>
+            <image:loc>https://tango.netlogo.org/assets/models/wolves-and-sheep.gif</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://tango.netlogo.org/assets/models/rollypollies.webp</image:loc>
+            <image:loc>https://tango.netlogo.org/assets/models/slime-tutorial.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://tango.netlogo.org/assets/models/rollypollies.gif</image:loc>
+            <image:loc>https://tango.netlogo.org/assets/models/slime-tutorial.gif</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://tango.netlogo.org/assets/models/two-particle-sandbox.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://tango.netlogo.org/assets/models/motion-maps-1d.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://tango.netlogo.org/assets/models/motion-maps-1d.gif</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://tango.netlogo.org/assets/models/fire.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://tango.netlogo.org/assets/models/sound-propagation.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://tango.netlogo.org/assets/models/sound-propagation.gif</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://tango.netlogo.org/assets/models/dla.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://tango.netlogo.org/assets/models/dla.gif</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://tango.netlogo.org/assets/home/nettango-player.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -30,124 +66,10 @@
             <image:loc>https://tango.netlogo.org/assets/models/ants.gif</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://tango.netlogo.org/assets/models/gpc.webp</image:loc>
+            <image:loc>https://tango.netlogo.org/assets/models/antomology-introduction.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://tango.netlogo.org/assets/models/gpc.gif</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://tango.netlogo.org/assets/models/rollypollies.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://tango.netlogo.org/assets/models/rollypollies.gif</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://tango.netlogo.org/assets/models/wolves-and-sheep.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://tango.netlogo.org/assets/models/wolves-and-sheep.gif</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://tango.netlogo.org/assets/models/sound-propagation.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://tango.netlogo.org/assets/models/sound-propagation.gif</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://tango.netlogo.org/assets/models/thermal-equilibration.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://tango.netlogo.org/assets/models/thermal-equilibration.gif</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://tango.netlogo.org/assets/models/watermelon-biodiversity.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://tango.netlogo.org/assets/models/watermelon-biodiversity.gif</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://tango.netlogo.org/assets/models/fire.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://tango.netlogo.org/assets/models/fire.gif</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://tango.netlogo.org/assets/models/disease.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://tango.netlogo.org/assets/models/disease.gif</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://tango.netlogo.org/assets/models/simplified-disease.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://tango.netlogo.org/assets/models/simplified-disease.gif</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://tango.netlogo.org/assets/models/slime-tutorial.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://tango.netlogo.org/assets/models/slime-tutorial.gif</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://tango.netlogo.org/assets/models/wolves-and-moose.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://tango.netlogo.org/assets/models/wolves-and-moose.gif</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://tango.netlogo.org/assets/models/rollypollies-simple.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://tango.netlogo.org/assets/models/rollypollies-simple.gif</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://tango.netlogo.org/assets/models/free-fall.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://tango.netlogo.org/assets/models/free-fall.gif</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://tango.netlogo.org/assets/models/ideal-gas-law.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://tango.netlogo.org/assets/models/ideal-gas-law.gif</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://tango.netlogo.org/assets/models/motion-maps-1d.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://tango.netlogo.org/assets/models/motion-maps-1d.gif</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://tango.netlogo.org/assets/models/particles-sandbox.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://tango.netlogo.org/assets/models/particles-sandbox.gif</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://tango.netlogo.org/assets/models/stop-light.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://tango.netlogo.org/assets/models/stop-light.gif</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://tango.netlogo.org/assets/models/two-particle-sandbox.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://tango.netlogo.org/assets/models/two-particle-sandbox.gif</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://tango.netlogo.org/assets/models/diffusion-graphics.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://tango.netlogo.org/assets/models/diffusion-graphics.gif</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://tango.netlogo.org/assets/models/antomology-ant-colony.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://tango.netlogo.org/assets/models/antomology-ant-colony.gif</image:loc>
+            <image:loc>https://tango.netlogo.org/assets/models/antomology-introduction.gif</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://tango.netlogo.org/assets/models/antomology-foraging-for-food.webp</image:loc>
@@ -156,16 +78,10 @@
             <image:loc>https://tango.netlogo.org/assets/models/antomology-foraging-for-food.gif</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://tango.netlogo.org/assets/models/antomology-introduction.webp</image:loc>
+            <image:loc>https://tango.netlogo.org/assets/models/antomology-ant-colony.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://tango.netlogo.org/assets/models/antomology-introduction.gif</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://tango.netlogo.org/assets/models/antomology-life-cycle.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://tango.netlogo.org/assets/models/antomology-life-cycle.gif</image:loc>
+            <image:loc>https://tango.netlogo.org/assets/models/antomology-ant-colony.gif</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://tango.netlogo.org/assets/models/antomology-pheromones.webp</image:loc>
@@ -174,10 +90,184 @@
             <image:loc>https://tango.netlogo.org/assets/models/antomology-pheromones.gif</image:loc>
         </image:image>
         <image:image>
+            <image:loc>https://tango.netlogo.org/assets/models/antomology-life-cycle.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://tango.netlogo.org/assets/models/antomology-life-cycle.gif</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://tango.netlogo.org/assets/models/antomology-predation.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://tango.netlogo.org/assets/models/antomology-predation.gif</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://tango.netlogo.org/assets/models/wolves-and-sheep.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://tango.netlogo.org/assets/models/wolves-and-sheep.gif</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://tango.netlogo.org/assets/models/wolves-and-moose.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://tango.netlogo.org/assets/models/wolves-and-moose.gif</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://tango.netlogo.org/assets/models/slime-tutorial.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://tango.netlogo.org/assets/models/slime-tutorial.gif</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://tango.netlogo.org/assets/models/rollypollies-simple.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://tango.netlogo.org/assets/models/rollypollies-simple.gif</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://tango.netlogo.org/assets/models/rollypollies.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://tango.netlogo.org/assets/models/rollypollies.gif</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://tango.netlogo.org/assets/models/two-particle-sandbox.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://tango.netlogo.org/assets/models/two-particle-sandbox.gif</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://tango.netlogo.org/assets/models/ideal-gas-law.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://tango.netlogo.org/assets/models/ideal-gas-law.gif</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://tango.netlogo.org/assets/models/gpc.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://tango.netlogo.org/assets/models/gpc.gif</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://tango.netlogo.org/assets/models/particles-sandbox.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://tango.netlogo.org/assets/models/particles-sandbox.gif</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://tango.netlogo.org/assets/models/thermal-equilibration.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://tango.netlogo.org/assets/models/thermal-equilibration.gif</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://tango.netlogo.org/assets/models/motion-maps-1d.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://tango.netlogo.org/assets/models/motion-maps-1d.gif</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://tango.netlogo.org/assets/models/stop-light.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://tango.netlogo.org/assets/models/stop-light.gif</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://tango.netlogo.org/assets/models/free-fall.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://tango.netlogo.org/assets/models/free-fall.gif</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://tango.netlogo.org/assets/models/spaceship-programming.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://tango.netlogo.org/assets/models/spaceship-programming.gif</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://tango.netlogo.org/assets/models/spaceship-programming-variable-engines.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://tango.netlogo.org/assets/models/spaceship-programming-variable-engines.gif</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://tango.netlogo.org/assets/models/fire.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://tango.netlogo.org/assets/models/fire.gif</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://tango.netlogo.org/assets/models/simplified-disease.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://tango.netlogo.org/assets/models/simplified-disease.gif</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://tango.netlogo.org/assets/models/disease.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://tango.netlogo.org/assets/models/disease.gif</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://tango.netlogo.org/assets/models/watermelon-biodiversity.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://tango.netlogo.org/assets/models/watermelon-biodiversity.gif</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://tango.netlogo.org/assets/models/sound-propagation.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://tango.netlogo.org/assets/models/sound-propagation.gif</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://tango.netlogo.org/assets/models/diffusion-graphics.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://tango.netlogo.org/assets/models/diffusion-graphics.gif</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://tango.netlogo.org/assets/models/dla.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://tango.netlogo.org/assets/models/dla.gif</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://tango.netlogo.org/assets/models/abstract-exponential.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://tango.netlogo.org/assets/models/abstract-exponential.gif</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://tango.netlogo.org/assets/models/abstract-exponential-and-logistic.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://tango.netlogo.org/assets/models/abstract-exponential-and-logistic.gif</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://tango.netlogo.org/assets/models/preferential-attachment.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://tango.netlogo.org/assets/models/preferential-attachment.gif</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://tango.netlogo.org/models/abstract-exponential</loc>
+        <image:image>
+            <image:loc>https://tango.netlogo.org/assets/models/abstract-exponential.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://tango.netlogo.org/assets/models/abstract-exponential.gif</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://tango.netlogo.org/models/abstract-exponential-and-logistic</loc>
+        <image:image>
+            <image:loc>https://tango.netlogo.org/assets/models/abstract-exponential-and-logistic.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://tango.netlogo.org/assets/models/abstract-exponential-and-logistic.gif</image:loc>
         </image:image>
     </url>
     <url>
@@ -262,6 +352,15 @@
         </image:image>
     </url>
     <url>
+        <loc>https://tango.netlogo.org/models/dla</loc>
+        <image:image>
+            <image:loc>https://tango.netlogo.org/assets/models/dla.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://tango.netlogo.org/assets/models/dla.gif</image:loc>
+        </image:image>
+    </url>
+    <url>
         <loc>https://tango.netlogo.org/models/fire</loc>
         <image:image>
             <image:loc>https://tango.netlogo.org/assets/models/fire.webp</image:loc>
@@ -316,6 +415,15 @@
         </image:image>
     </url>
     <url>
+        <loc>https://tango.netlogo.org/models/preferential-attachment</loc>
+        <image:image>
+            <image:loc>https://tango.netlogo.org/assets/models/preferential-attachment.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://tango.netlogo.org/assets/models/preferential-attachment.gif</image:loc>
+        </image:image>
+    </url>
+    <url>
         <loc>https://tango.netlogo.org/models/rollypollies</loc>
         <image:image>
             <image:loc>https://tango.netlogo.org/assets/models/rollypollies.webp</image:loc>
@@ -358,6 +466,24 @@
         </image:image>
         <image:image>
             <image:loc>https://tango.netlogo.org/assets/models/sound-propagation.gif</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://tango.netlogo.org/models/spaceship-programming</loc>
+        <image:image>
+            <image:loc>https://tango.netlogo.org/assets/models/spaceship-programming.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://tango.netlogo.org/assets/models/spaceship-programming.gif</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://tango.netlogo.org/models/spaceship-programming-variable-engines</loc>
+        <image:image>
+            <image:loc>https://tango.netlogo.org/assets/models/spaceship-programming-variable-engines.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://tango.netlogo.org/assets/models/spaceship-programming-variable-engines.gif</image:loc>
         </image:image>
     </url>
     <url>
@@ -460,4 +586,4 @@
         </image:image>
     </url>
 </urlset>
-<!-- XML Sitemap generated by @nuxtjs/sitemap v7.4.7 at 2026-09-11T20:03:34.045Z -->
+<!-- XML Sitemap generated by @nuxtjs/sitemap v7.4.7 at 2026-10-02T20:57:06.944Z -->
