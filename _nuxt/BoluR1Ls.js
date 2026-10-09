@@ -1,0 +1,1 @@
+import{u as s}from"./DoF-e88E.js";import{m as a,c as t,r as o,f as l,o as n}from"#entry";const r={class:"flex h-dvh flex-col overflow-hidden bg-default font-sans"},c={class:"flex min-h-0 flex-1 flex-col"},p=a({__name:"app",setup(f){return s(),(e,d)=>(n(),t("div",r,[o(e.$slots,"bar"),l("main",c,[o(e.$slots,"default")])]))}});export{p as default};

@@ -1,0 +1,1 @@
+import{z as a,A as o}from"#entry";const e="NetTango Builder by NetLogo",r=()=>{a({titleTemplate:t=>t?`${t} - ${e}`:e}),o({ogSiteName:e,ogType:"website",twitterCard:"summary_large_image"})};export{r as u};
