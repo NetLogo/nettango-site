@@ -1,0 +1,1 @@
+import{_ as o,c as a,o as t,r as s,f as l}from"#entry";const c={},n={class:"flex h-dvh flex-col overflow-hidden bg-default font-sans"},r={class:"flex min-h-0 flex-1 flex-col"};function f(e,d){return t(),a("div",n,[s(e.$slots,"bar"),l("main",r,[s(e.$slots,"default")])])}const i=o(c,[["render",f]]);export{i as default};

@@ -1,0 +1,1 @@
+import{r as o}from"./CnAxPwHr.js";import{m as a,t as e,o as s,w as r,C as n,b as p,D as m}from"#entry";import"./iik6CYzq.js";const l=a({__name:"MDCButton.global",setup(_){return(t,u)=>(s(),e(p(m),n(t.$attrs,{class:"[&_p]:p-0 [&_p]:m-0 w-fit"}),{default:r(()=>[o(t.$slots,"default",{mdcUnwrap:"p"})]),_:3},16))}}),d=Object.assign(l,{__name:"MDCButton"});export{d as default};

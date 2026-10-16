@@ -1,0 +1,88 @@
+# NetTango
+
+> NetTango is a block-based programming interface for NetLogo agent-based models. Students assemble blocks that set the rules of a simulation and run it in the browser; teachers build block sets for new models with the NetTango Builder.
+
+## Site
+
+- [Home](https://c3rvbmv.omar-ibrahim.com/): Overview of NetTango for teachers, with a running model and the topics covered.
+- [Models Library](https://c3rvbmv.omar-ibrahim.com/models-library): Every ready-to-run model, grouped by classroom topic.
+
+## Models: Ant foraging
+
+Your students build the rules one ant follows and watch the whole colony find food, from a first walk to a full colony with a queen and predators.
+
+- [Ants](https://c3rvbmv.omar-ibrahim.com/models/ants): A colony of ants forages for food and lays pheromone trails back to the nest. This is the finished project from the NetTango Builder tutorial.
+- [Antomology - Introduction](https://c3rvbmv.omar-ibrahim.com/models/antomology-introduction): In this game, two colonies of ants forage for food. Though each ant follows a set of simple rules, the colonies as a whole act in sophisticated ways. Ant Adaptation simulates two ant colonies side by side, each controlled by a different player.
+- [Antomology - Foraging For Food](https://c3rvbmv.omar-ibrahim.com/models/antomology-foraging-for-food): In this game, two colonies of ants forage for food. Though each ant follows a set of simple rules, the colonies as a whole act in sophisticated ways. Ant Adaptation simulates two ant colonies side by side, each controlled by a different player.
+- [Antomology - Ant Colony](https://c3rvbmv.omar-ibrahim.com/models/antomology-ant-colony): In this game, two colonies of ants forage for food. Though each ant follows a set of simple rules, the colonies as a whole act in sophisticated ways. Ant Adaptation simulates two ant colonies side by side, each controlled by a different player.
+- [Antomology - Pheromones](https://c3rvbmv.omar-ibrahim.com/models/antomology-pheromones): In this game, two colonies of ants forage for food. Though each ant follows a set of simple rules, the colonies as a whole act in sophisticated ways. Ant Adaptation simulates two ant colonies side by side, each controlled by a different player.
+- [Antomology - Life Cycle](https://c3rvbmv.omar-ibrahim.com/models/antomology-life-cycle): In this game, two colonies of ants forage for food. Though each ant follows a set of simple rules, the colonies as a whole act in sophisticated ways. Ant Adaptation simulates two ant colonies side by side, each controlled by a different player.
+- [Antomology - Predation](https://c3rvbmv.omar-ibrahim.com/models/antomology-predation): In this game, two colonies of ants forage for food. Though each ant follows a set of simple rules, the colonies as a whole act in sophisticated ways. Ant Adaptation simulates two ant colonies side by side, each controlled by a different player.
+
+## Models: Predator and prey
+
+Your students write rules for hunters and the animals they hunt, then see whether both populations last or one dies out.
+
+- [Wolves and Sheep](https://c3rvbmv.omar-ibrahim.com/models/wolves-and-sheep): This model explores the stability of predator-prey ecosystems. Such a system is called unstable if it tends to result in extinction for one or more species involved. In contrast, a system is stable if it tends to maintain itself over time, despite fluctuations in population sizes.
+- [Wolves and Moose](https://c3rvbmv.omar-ibrahim.com/models/wolves-and-moose): A NetTango blocks environment from the Biology collection.
+
+## Models: Animal behavior
+
+Your students turn simple rules for single animals into a class experiment on how rollypollies pick a chamber and how slime mold cells gather.
+
+- [Slime Tutorial](https://c3rvbmv.omar-ibrahim.com/models/slime-tutorial): This model is inspired by the aggregation behavior of slime-mold cells. It is the final checkpoint of Jeremy Baker's NetTango Builder tutorial.
+- [Rollypollies Simple](https://c3rvbmv.omar-ibrahim.com/models/rollypollies-simple): A NetTango blocks environment from the Biology collection.
+- [Rollypollies](https://c3rvbmv.omar-ibrahim.com/models/rollypollies): Rollypollies wander between a dry chamber and a moist one. Simple movement rules decide where the animals end up gathering.
+
+## Models: Gases and particles
+
+Your students program how gas particles move and collide, then use the pattern they see to explain gas behavior and heat transfer.
+
+- [Two Particle Sandbox](https://c3rvbmv.omar-ibrahim.com/models/two-particle-sandbox): This model enables students to draw a model to "sketch" up representations of new systems to explore concepts related to gas behavior and gas particles. A wide range of real world systems can be modeled with this simple interface (e.g. diffusion of perfume from an uncapped container, hot gas mixed with a cold gas, mixtures of gases).
+- [Ideal Gas Law](https://c3rvbmv.omar-ibrahim.com/models/ideal-gas-law): This model enables students to draw a model to "sketch" up representations of new systems to explore concepts related to gas behavior and gas particles. A wide range of real world systems can be modeled with this simple interface (e.g. diffusion of perfume from an uncapped container, hot gas mixed with a cold gas, mixtures of gases).
+- [Gas Particle Sandbox](https://c3rvbmv.omar-ibrahim.com/models/gpc): Program how gas particles move, collide, and bounce off the walls of a sealed container, then watch the rules play out.
+- [Particles Sandbox](https://c3rvbmv.omar-ibrahim.com/models/particles-sandbox): This model supports a drawing style interface for "sketching" up representations of new systems to explore related to gas behavior and gas particles. This model is part of the "Connected Chemistry" curriculum http://ccl.northwestern.edu/curriculum/ConnectedChemistry/ which explores the behavior of gases.
+- [Thermal Equilibration](https://c3rvbmv.omar-ibrahim.com/models/thermal-equilibration): This model supports a drawing style interface for "sketching" up representations of new systems to explore related to gas behavior and gas particles. This model is part of the "Connected Chemistry" curriculum http://ccl.northwestern.edu/curriculum/ConnectedChemistry/ which explores the behavior of gases.
+
+## Models: Force and motion
+
+Your students program cars, falling balls and spaceships, then compare the motion they built with position and speed graphs.
+
+- [Motion Maps 1D](https://c3rvbmv.omar-ibrahim.com/models/motion-maps-1d): (A graph of position velocity and acceleration for up to 10 cars moving horizontally.)
+- [Stop Light](https://c3rvbmv.omar-ibrahim.com/models/stop-light): A NetTango blocks environment from the Chemistry and Physics collection.
+- [Free Fall](https://c3rvbmv.omar-ibrahim.com/models/free-fall): A NetTango blocks environment from the Chemistry and Physics collection.
+- [Spaceship Programming](https://c3rvbmv.omar-ibrahim.com/models/spaceship-programming): Students schedule timed engine firings with blocks to fly a spaceship to a target. The ship keeps its velocity until an opposing engine fires.
+- [Spaceship Programming: Variable Engines](https://c3rvbmv.omar-ibrahim.com/models/spaceship-programming-variable-engines): Follows Spaceship Programming. Students again schedule engine firings with blocks to reach a target, and now set each engine's force from 0 to 10 N.
+
+## Models: Disease and fire spread
+
+Your students build rules for how a disease, a forest fire or a crop fungus spreads and test what slows it down.
+
+- [Fire](https://c3rvbmv.omar-ibrahim.com/models/fire): This project simulates the spread of a fire through a forest. It shows that the fire's chance of reaching the right edge of the forest depends critically on the density of trees. This is an example of a common feature of complex systems, the presence of a non-linear threshold or critical parameter. This model extends the Fire Simple model by adding fire fighting ability.
+- [Simplified Disease](https://c3rvbmv.omar-ibrahim.com/models/simplified-disease): A NetTango blocks environment from the Theory Building collection.
+- [Disease](https://c3rvbmv.omar-ibrahim.com/models/disease): A NetTango blocks environment from the Theory Building collection.
+- [Watermelon Biodiversity](https://c3rvbmv.omar-ibrahim.com/models/watermelon-biodiversity): Students investigate seedless watermelon (artificial asexual reproduction via grafting) and seeded watermelon (naturally reproducing sexually) to see how they are affected when a fungus is introduced into the population. What can be done to help the watermelons survive the fungus?
+
+## Models: Waves and diffusion
+
+Your students build a speaker and air particles to see how sound travels, and explore how a value spreads out across a grid.
+
+- [Sound Propagation](https://c3rvbmv.omar-ibrahim.com/models/sound-propagation): A speaker plays sound at different volumes. The greater the movement of the speaker the louder the sound and the greater the amplitude of the particle movement.
+- [Diffusion Graphics](https://c3rvbmv.omar-ibrahim.com/models/diffusion-graphics): Diffusion Graphics is unlike most other NetLogo models, in that it really doesn't 'model' anything. It simply explores the power behind an interesting patch primitive: 'diffuse'.
+
+## Models: Growth and Networks
+
+Your students build simple rules for particles and links and watch growth curves, branching shapes and networks with hubs take form.
+
+- [DLA](https://c3rvbmv.omar-ibrahim.com/models/dla): Students build rules for wandering particles that attach to a seed cluster when they touch it, growing branching, treelike structures. NetTango version by John Chen, based on the NetLogo Models Library model DLA Simple (Wilensky and Rand, 2006). Licensed CC BY-NC-SA 3.0.
+- [Abstract Exponential](https://c3rvbmv.omar-ibrahim.com/models/abstract-exponential): Students build rules for wandering particles that hatch new particles by chance each step, and plot how the particle count grows. NetTango version by John Chen. The model file carries the Info text of the NetLogo Models Library model DLA Simple (Wilensky and Rand, 2006) and states a CC BY-NC-SA 3.0 license.
+- [Abstract Exponential and Logistic](https://c3rvbmv.omar-ibrahim.com/models/abstract-exponential-and-logistic): Students build rules for wandering particles that hatch new particles by chance and die when another particle shares their patch, so crowding limits the particle count. NetTango version by John Chen. The model file carries the Info text of the NetLogo Models Library model DLA Simple (Wilensky and Rand, 2006) and states a CC BY-NC-SA 3.0 license.
+- [Preferential Attachment](https://c3rvbmv.omar-ibrahim.com/models/preferential-attachment): Students build rules for a growing network in which new nodes connect to existing ones, and explore how linking to already popular nodes produces a few highly connected hubs. NetTango version by John Chen, based on the NetLogo Models Library model Preferential Attachment (Wilensky, 2005). Licensed CC BY-NC-SA 3.0.
+
+## Tutorials
+
+- [Introduction to the NetTango Builder](https://c3rvbmv.omar-ibrahim.com/tutorials/introduction-to-the-nettango-builder): Learn how to use the NetTango Builder to create a blocks-based programming interface for the NetLogo Ants model. This tutorial will guide you through the process of designing your own domain-specific blocks and connecting them to an existing NetLogo model.
+
+## Builder
+
+- [NetTango Builder](https://netlogoweb.org/nettango-builder): The web editor for designing block sets and attaching them to a NetLogo model; every model page links to it with its project file loaded.
