@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://c3rvbmv.omar-ibrahim.com/sitemap.xml
+Sitemap: https://tango.netlogo.org/sitemap.xml

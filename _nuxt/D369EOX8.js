@@ -1,0 +1,1 @@
+import{et as e,k as t,mt as n,v as r}from"./Dfyab7Rd.js";import{t as i}from"./CxMlqFTa.js";var a=Object.assign(t({__name:`MDCIcon.global`,props:{name:{}},setup(t){return(a,o)=>{let s=i;return n(),r(s,e({name:t.name},a.$attrs),null,16,[`name`])}}}),{__name:`MDCIcon`});export{a as default};

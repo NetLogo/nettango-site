@@ -1,0 +1,1 @@
+import{g as e,vn as t}from"./Dfyab7Rd.js";import{n}from"./BDWgwTsD.js";function r(r){let i=n({dir:t(`ltr`)});return e(()=>r?.value||i.dir?.value||`ltr`)}export{r as t};

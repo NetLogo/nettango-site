@@ -1,0 +1,1 @@
+import{_ as e,b as t,mt as n,xt as r}from"./Dfyab7Rd.js";import{t as i}from"./BDNMzG2s.js";var a={},o={class:`flex h-dvh flex-col overflow-hidden bg-default font-sans`},s={class:`flex min-h-0 flex-1 flex-col`};function c(i,a){return n(),t(`div`,o,[r(i.$slots,`bar`),e(`main`,s,[r(i.$slots,`default`)])])}var l=i(a,[[`render`,c]]);export{l as default};
